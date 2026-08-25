@@ -1,0 +1,5 @@
+# Cloudflare Pages redirects
+# Add any custom redirects here
+
+# Example: /cv  ->  index.html (for future PDF download)
+# /cv   /index.html   200
