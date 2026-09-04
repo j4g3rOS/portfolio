@@ -1,0 +1,5 @@
+Triggering a redeploy for Cloudflare after permissions fix.
+
+If this commit appears here it will trigger the connected Cloudflare Pages/Worker to attempt a deploy again.
+
+Timestamp: 2026-09-04T16:00:00Z
